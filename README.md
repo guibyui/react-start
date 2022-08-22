@@ -1,3 +1,12 @@
+# Starting Dependencies
+"axios": "^0.26.1",
+"browser-router": "^0.2.0",
+"css-minify": "^2.0.0",
+"react-router-dom": "^6.2.2",
+"react-icons": "^4.3.1",
+"tailwindcss": "^3.0.23"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
